@@ -32,8 +32,8 @@ Step 8: Save and run the application.
 ```
 /*
 Program to print the text “GalleryControl”.
-Developed by: DINESH KUMAR M
-Registeration Number : 212221220011
+Developed by: PRASANNA R
+Registeration Number : 212221220039
 */
 ```
 activity_main.xml:
@@ -183,5 +183,4 @@ public class MainActivity extends AppCompatActivity {
 
 ## RESULT
 Thus a Simple Android Application to create a gallery control using android studio to display images or photos is developed and executed successfully.
-
 
